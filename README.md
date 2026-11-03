@@ -6,16 +6,6 @@
 
 My vision is to make people's lives easier by combining Generative AI, AI Agents, Bioinformatics, and Software Engineering to build intelligent solutions that solve real-world problems.
 
-
-## Technical Skills
-
-- **Programming Languages:** Python, Java, C++, C
-- **AI / Machine Learning:** Machine Learning, Deep Learning, Generative AI, LLMs, RAG, AI AGENT
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn
-- **Backend & Web Development:** Django, Django REST Framework, FastAPI, REST APIs
-- **Databases:** MySQL, PostgreSQL, SQLite, ChromaDB
-
-
 ## Professional Experience
 ### AI & Digital Solutions Associate · Pansoft Technologies Pty Ltd
 *October 2026 – Present*
@@ -26,6 +16,18 @@ I contribute to the design and development of AI and Generative AI solutions usi
 *July 2024 – January 2025*
 
 Contributed to developing software solutions, integrating LLMs into application workflows, and building backend features and REST APIs using Django.
+
+
+## Technical Skills
+
+- **Programming Languages:** Python, Java, C++, C
+- **AI / Machine Learning:** Machine Learning, Deep Learning, Generative AI, LLMs, RAG, AI AGENT
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn
+- **Backend & Web Development:** Django, Django REST Framework, FastAPI, REST APIs
+- **Databases:** MySQL, PostgreSQL, SQLite, ChromaDB
+
+
+
 
 
 ## Publications
