@@ -1,25 +1,52 @@
-<h1 align="center">Hello 👋, I'm Muhtasim Rahman</h1>
-<h3 align="center">A passionate programmer from Bangladesh <img alt="flag" width="50" src="https://em-content.zobj.net/source/google/56/flag-for-bangladesh_1f1e7-1f1e9.png"></h3>
+<h1 align="center">Hi 👋, I'm <b>Muhtasim Rahman</b></h1> 
+<p>I am a Computer Science and Engineering graduate from the University of Asia Pacific, with a CGPA of 3.80/4.00. Currently, I'm working as an AI & Digital Solutions Associate at Pansoft Technologies Pty Ltd, Australia, where I work on AI-driven solutions and software development.</p>
+ 
 
-<img align="right" alt="Coding" width="300" src="https://38.media.tumblr.com/eaf306786929f149ca19525eb2e84fcb/tumblr_ng8zutW0xn1u54fn6o1_r3_500.gif">
+## Objective
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhtasim&label=Profile%20views&color=0e75b6&style=flat" alt="muhtasim" /> </p>
+My vision is to make people's lives easier by combining Generative AI, AI Agents, Bioinformatics, and Software Engineering to build intelligent solutions that solve real-world problems.
 
-- 🌱 I’m currently learning : **React Native,Python,Blockchain,Cryptographic algorithms**
 
-- 💬 Ask me about : **Blockchain Technology**
+## Technical Skills
 
-- 📫 How to reach me **muhtasimrahman810@gmail.com**
+- **Programming Languages:** Python, Java, C++, C
+- **AI / Machine Learning:** Machine Learning, Deep Learning, Generative AI, LLMs, RAG, AI AGENT
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn
+- **Backend & Web Development:** Django, Django REST Framework, FastAPI, REST APIs
+- **Databases:** MySQL, PostgreSQL, SQLite, ChromaDB
 
-- ⚡ Fun fact : **Why don't scientists trust atoms? Because they make up everything!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/muhtasim.rahman.79?mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhtasim.rahman.79?mibextid=kfxxjd" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/code-haters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/code-haters" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/muhtasimrahman810/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/muhtasimrahman810/" height="30" width="40" /></a>
-</p>
+## Professional Experience
+### AI & Digital Solutions Associate · Pansoft Technologies Pty Ltd
+*October 2026 – Present*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <br> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <br><br> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <br> <br></a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br><br><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I contribute to the design and development of AI and Generative AI solutions using LLMs, RAG, AI Agents, and Machine Learning. My work also includes developing intelligent automation and system integrations, conducting technical research and evaluations, and delivering web applications, REST APIs, and software solutions.
 
+### Software Developer Intern · HRsoftBD
+*July 2024 – January 2025*
+
+Contributed to developing software solutions, integrating LLMs into application workflows, and building backend features and REST APIs using Django.
+
+
+## Publications
+
+1. ProtAttn-QuadNet: An Attention-Based Deep Learning Framework for Protein-Protein Interaction Prediction Using ProtBERT Embeddings.
+   <!-- Add link here when available -->
+
+2. HODC-AES: A Reliability-Aware Benchmark for Higher-Order Drug-Combination Adverse-Event Signal Prediction in Computational Pharmacovigilance.
+   <!-- Add link here when available -->
+
+3. Leakage-Aware Five-Class Otoscopic Image Classification Using ROI-Guided Deep and Handcrafted Features.
+   <!-- Add link here when available -->
+
+---
+
+## Academic Achievements
+
+<table> <tr> <td>Vice Chancellor's Award, 4 times</td> <td>Dean's Award, 2 times</td> <td>ICPC Dhaka Regional Contest 2022</td> </tr> <tr> <td>Dhaka Divisional Hackathon, Grand Finalist</td> <td>EWU National RoboFest 2024</td> <td>UAP EEE Tech Fest 2.0 Programming Contest 2023</td> </tr> </table>
+
+---
+
+## Connect With Me
+
+<div align="center"> <table> <tr> <td align="center"> <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </td> <td align="center"> <a href="YOUR_GOOGLE_SCHOLAR_URL"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a> </td> </tr> <tr> <td align="center"> <a href="YOUR_RESEARCHGATE_URL"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a> </td> <td align="center"> <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </td> </tr> </table> </div>
